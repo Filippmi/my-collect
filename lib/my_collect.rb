@@ -6,9 +6,4 @@ new_array = []
         count += 1
     end
     new_array
-    #takes in an array of languages. done
-    #creates a new array. done
-    #iterate over each item in the languages array. done
-    #for each item in the array take the string and upcase it and put it into the new array.done
-    #return the new array
 end
